@@ -1,5 +1,5 @@
 ###  你好，我是<a href="https://github.com/embarce" target="_blank">小E</a> 👋
-我是一个充满激情的后端开发工程师。我对编程始终充满热情。<br> 我非常注意我所构建的程序的体验、架构和代码质量。
+我是一个充满激情的后端开发工程师。对编程始终充满热情。日常开发注重代码质量和细节问题<br> 我永远热爱着JAVA，JAVA是世界上最好的语言。
 - 💬 欢迎随时通过邮箱或者其他联系找我，我乐意提供帮助。
 - 😄 <a href="http://embracechw.top/">我的博客</a>
 - **Preview**：From Guangzhou, China , love coding and a little fat🍔.
