@@ -1,8 +1,8 @@
 ###  你好，我是<a href="https://github.com/embarce" target="_blank">小E</a> 👋
-我是一个充满激情的后端开发工程师。对编程始终充满热情。日常开发注重代码质量和细节问题。<br> 我永远热爱着JAVA，JAVA是世界上最好的语言。
-- 💬 欢迎随时通过邮箱或者其他联系找我，我乐意提供帮助。
+我是一个充满激情的后端开发工程师(Backend development engineer)。对编程始终充满热情。日常开发注重代码质量和细节问题。<br> 我永远热爱着JAVA，JAVA是世界上最好的语言(I always love JAVA, JAVA is the best language in the world.)。
+- 💬 欢迎随时通过邮箱(729374717@qq.com)或者其他联系找我，我乐意提供帮助(I am happy to help)。
 - 😄 <a href="http://embracechw.top/">我的博客</a>
-- 🌱 未来几年，希望能拥有自己开源的项目，为社会做出贡献。
+- 🌱 未来几年，希望能拥有自己开源的项目(Public)，为社会做出贡献。
 - **Preview**：From Guangzhou, China , love coding and a little fat🍔.
 <!--
 **embarce/embarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
